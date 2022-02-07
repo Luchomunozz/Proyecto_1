@@ -1,0 +1,17 @@
+.image{
+    max-height: 1000px;
+    max-width: 1000px;
+    border-radius: 10px;
+}
+
+img:hover {
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+    filter: invert(100%);
+    transform: scale(0.95);
+}
+
+.container_image{
+    display:flex;
+    justify-content: center;
+}
