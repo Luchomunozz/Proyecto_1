@@ -1,18 +1,2 @@
-.button_color{
-    background-color: rgb(175, 46, 23);
-    border-radius: 12px;
-    border-style: none;
-    text-align: center;
-    font-size: 1.5rem;
-    padding: 15px, 32px;
-    color: azure;
-    width: 8rem;
-    height: 3rem;
-}
 
-.Banner_buttons{
-    display: flex;
-    justify-content:space-evenly;
-    height: 6rem;
-    padding-top: 30px;
-}
+
